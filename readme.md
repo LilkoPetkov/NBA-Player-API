@@ -1,5 +1,5 @@
 # NBA player API
-!\[my badge\]([https://badgen.net/badge/hello/world/red?icon=twitter](https://badgen.net/#badge/Rest/Flask/red?))
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
 
 NBA player API with full information about each player in NBA history.
 The API can provide information about the player's general data, career highs,
