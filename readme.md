@@ -1,5 +1,5 @@
 # NBA player API
-[![rest](https://badgen.net/#badge/flask/rest)
+!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
 
 NBA player API with full information about each player in NBA history.
 The API can provide information about the player's general data, career highs,
