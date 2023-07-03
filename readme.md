@@ -2,7 +2,7 @@
 
 NBA player API with full information about each player in NBA history.
 The API can provide information about the player's general data, career highs,
-regular season stats and post season stats.
+regular season stats and post season stats. NBA teams and games will be added as well. 
 
 # Table of contents
 * [Endpoints](#Endpoints)
@@ -20,7 +20,6 @@ regular season stats and post season stats.
 **NOTE**
 
 All information was last updated after the 2022-2023 season. New players from the latest draft are not added.
-NBA teams and games will be added as well. 
 
 ---
 
