@@ -16,7 +16,13 @@ regular season stats and post season stats. NBA teams and games will be added as
  - https://nba-api-vxlu.onrender.com/search-player/$name (string) - It is advisable to search for a last name, the result will be all players that match the name along with their IDs
  - https://nba-api-vxlu.onrender.com/regular-seasons/player/$id (int) - Search for all regular season stats for a given player
  - https://nba-api-vxlu.onrender.com/post-seasons/player/$id (int) - Search for all post season stats for a given player 
- - https://nba-api-vxlu.onrender.com/career-high/player/$id (int) - Search for career high 
+ - https://nba-api-vxlu.onrender.com/career-high/player/$id (int) - Search for career high
+
+---
+
+All the requests should be GET
+
+---
 
 ---
 **NOTE**
