@@ -1,4 +1,4 @@
-# NBA Player API
+# NBA player API
 
 NBA player API with full information about each player in NBA history.
 The API can provide information about the player's general data, career highs,
