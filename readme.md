@@ -58,8 +58,7 @@ All information was last updated after the 2022-2023 season. New players from th
         }
     ]
 ---
-> https://nba-api-vxlu.onrender.com/get-player/3503
-> 
+  https://nba-api-vxlu.onrender.com/get-player/3503
     {
         "assists": "6.3",
         "field_goals": "37.6",
