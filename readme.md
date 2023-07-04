@@ -1,8 +1,7 @@
 # NBA player API
 ![my badge](https://badgen.net/badge/Flask/Restful/:color?icon=github)
 ![my badge](https://badgen.net/badge/Flask/API/:color?icon=github)
-
-![my badge](https://badgen.net/badge/NBA/red?icon=github)
+![my badge](https://badgen.net/badge/NBA/REST/red?icon=github)
 
 
 NBA player API with full information about each player in NBA history.
