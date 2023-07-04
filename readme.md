@@ -58,7 +58,7 @@ All information was last updated after the 2022-2023 season. New players from th
         }
     ]
 ---
-  https://nba-api-vxlu.onrender.com/get-player/3503
+```https://nba-api-vxlu.onrender.com/get-player/3503```
   
     {
         "assists": "6.3",
@@ -73,8 +73,8 @@ All information was last updated after the 2022-2023 season. New players from th
         "per": "23.5"
     }
 ---
-> https://nba-api-vxlu.onrender.com/regular-seasons/player/3503
-> 
+```https://nba-api-vxlu.onrender.com/regular-seasons/player/3503```
+
 ```
 [
     {
@@ -112,8 +112,8 @@ All information was last updated after the 2022-2023 season. New players from th
 ]
 ```
 ---
-> https://nba-api-vxlu.onrender.com/post-seasons/player/3505
-> 
+``` https://nba-api-vxlu.onrender.com/post-seasons/player/3505```
+
 ```
 [
     {
