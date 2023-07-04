@@ -37,7 +37,7 @@ All information was last updated after the 2022-2023 season. New players from th
 
 ## Usage
 
-> https://nba-api-vxlu.onrender.com/search-player/bird
+```https://nba-api-vxlu.onrender.com/search-player/bird```
 
     [
         {
