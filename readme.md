@@ -150,8 +150,22 @@ All information was last updated after the 2022-2023 season. New players from th
     }
 ]
 ```
+---
+```https://nba-api-vxlu.onrender.com/career-high/player/3472```
 
-
+```
+[
+    {
+        "assists": "9",
+        "steals": "5",
+        "blocks": "5",
+        "game_score": "30.3",
+        "rebounds": "22",
+        "triple_doubles": "0",
+        "points": "28"
+    }
+]
+```
 
 ## License
 
