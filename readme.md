@@ -36,7 +36,7 @@ All information was last updated after the 2022-2023 season. New players from th
 
 ## Usage
 
-```http://51.20.96.144/search-player/bird```
+```http://51.20.40.159/search-player/bird```
 
     [
         {
@@ -57,7 +57,7 @@ All information was last updated after the 2022-2023 season. New players from th
         }
     ]
 ---
-```http://51.20.96.144/get-player/3503```
+```http://51.20.40.159/get-player/3503```
   
     {
         "assists": "6.3",
@@ -72,7 +72,7 @@ All information was last updated after the 2022-2023 season. New players from th
         "per": "23.5"
     }
 ---
-```http://51.20.96.144/regular-seasons/player/3503```
+```http://51.20.40.159/regular-seasons/player/3503```
 
 ```
 [
@@ -111,7 +111,7 @@ All information was last updated after the 2022-2023 season. New players from th
 ]
 ```
 ---
-```http://51.20.96.144/post-seasons/player/3505```
+```http://51.20.40.159/post-seasons/player/3505```
 
 ```
 [
@@ -150,7 +150,7 @@ All information was last updated after the 2022-2023 season. New players from th
 ]
 ```
 ---
-```http://51.20.96.144/career-high/player/3472```
+```http://51.20.40.159/career-high/player/3472```
 
 ```
 [
