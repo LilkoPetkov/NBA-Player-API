@@ -166,6 +166,12 @@ All information was last updated after the 2022-2023 season. New players from th
 ]
 ```
 
+## What we can do with the API?
+
+![Test](visualisation_points.png)
+
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
