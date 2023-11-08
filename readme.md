@@ -12,7 +12,7 @@ regular season stats and post season stats. NBA teams and games will be added as
 * [Endpoints](#Endpoints)
 * [Technologies](#Technologies)
 * [Usage](#Usage)
-* [What we can do with the API?](#"What we can do with the API"?)
+* [Demos](#Demos?)
 * [License](#License)
 
 ## Endpoints
@@ -167,7 +167,7 @@ All information was last updated after the 2022-2023 season. New players from th
 ]
 ```
 
-## What we can do with the API?
+## Demos
 
 ### Visualisations
  - Comparison of different players per regular / post season
