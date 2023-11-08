@@ -12,7 +12,7 @@ regular season stats and post season stats. NBA teams and games will be added as
 * [Endpoints](#Endpoints)
 * [Technologies](#Technologies)
 * [Usage](#Usage)
-* [What we can do with the API?](#What we can do with the API?)
+* [What we can do with the API?](#"What we can do with the API"?)
 * [License](#License)
 
 ## Endpoints
