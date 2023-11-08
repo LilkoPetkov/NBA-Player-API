@@ -168,8 +168,13 @@ All information was last updated after the 2022-2023 season. New players from th
 
 ## What we can do with the API?
 
-![Test](visualisation_points.png)
+### Visualisations
+ - Comparison of different players per regular / post season
 
+![points_comparison](visualisation_points.png)
+![drb_comparison](visualization_drb.png)
+![orb_comparison](visualization_orb.png)
+![drb_comparison](visualization_ftp.png)
 
 
 ## License
