@@ -16,11 +16,11 @@ regular season stats and post season stats. NBA teams and games will be added as
 * [License](#License)
 
 ## Endpoints
- - http://51.20.40.159/get-player/$id (int) - Get Player Data
- - http://51.20.40.159/$name (string) - It is advisable to search for a last name, the result will be all players that match the name along with their IDs
- - http://51.20.40.159/regular-seasons/player/$id (int) - Search for all regular season stats for a given player
- - http://51.20.40.159/post-seasons/player/$id (int) - Search for all post season stats for a given player 
- - http://51.20.40.159/career-high/player/$id (int) - Search for career high
+ - http://16.171.233.107/get-player/$id (int) - Get Player Data
+ - http://16.171.233.107/$name (string) - It is advisable to search for a last name, the result will be all players that match the name along with their IDs
+ - http://16.171.233.107/regular-seasons/player/$id (int) - Search for all regular season stats for a given player
+ - http://16.171.233.107/post-seasons/player/$id (int) - Search for all post season stats for a given player 
+ - http://16.171.233.107/career-high/player/$id (int) - Search for career high
 
 
 ---
@@ -37,7 +37,7 @@ All information was last updated after the 2022-2023 season. New players from th
 
 ## Usage
 
-```http://51.20.40.159/search-player/bird```
+```http://16.171.233.107/search-player/bird```
 
     [
         {
@@ -58,7 +58,7 @@ All information was last updated after the 2022-2023 season. New players from th
         }
     ]
 ---
-```http://51.20.40.159/get-player/3503```
+```http://16.171.233.107/get-player/3503```
   
     {
         "assists": "6.3",
@@ -73,7 +73,7 @@ All information was last updated after the 2022-2023 season. New players from th
         "per": "23.5"
     }
 ---
-```http://51.20.40.159/regular-seasons/player/3503```
+```http://16.171.233.107/regular-seasons/player/3503```
 
 ```
 [
@@ -112,7 +112,7 @@ All information was last updated after the 2022-2023 season. New players from th
 ]
 ```
 ---
-```http://51.20.40.159/post-seasons/player/3505```
+```http://16.171.233.107/post-seasons/player/3505```
 
 ```
 [
@@ -151,7 +151,7 @@ All information was last updated after the 2022-2023 season. New players from th
 ]
 ```
 ---
-```http://51.20.40.159/career-high/player/3472```
+```http://16.171.233.107/career-high/player/3472```
 
 ```
 [
