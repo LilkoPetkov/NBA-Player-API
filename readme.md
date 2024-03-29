@@ -16,11 +16,11 @@ regular season stats and post season stats. NBA teams and games will be added as
 * [License](#License)
 
 ## Endpoints
- - https://www.nba.sportcentre.info/$id (int) - Get Player Data
- - https://www.nba.sportcentre.info/$name (string) - It is advisable to search for a last name, the result will be all players that match the name along with their IDs
+ - https://www.nba.sportcentre.info/get-player/$id (int) - Get Player Data
+ - https://www.nba.sportcentre.info/search-player/$name (string) - It is advisable to search for a last name, the result will be all players that match the name along with their IDs
  - https://www.nba.sportcentre.info/regular-seasons/player/$id (int) - Search for all regular season stats for a given player
- - https://www.nba.sportcentre.info/$id (int) - Search for all post season stats for a given player 
- - https://www.nba.sportcentre.info$id (int) - Search for career high
+ - https://www.nba.sportcentre.info/post-seasons/player/$id (int) - Search for all post season stats for a given player 
+ - https://www.nba.sportcentre.info/career-high/player/$id (int) - Search for career high
 
 
 ---
