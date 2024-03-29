@@ -16,11 +16,11 @@ regular season stats and post season stats. NBA teams and games will be added as
 * [License](#License)
 
 ## Endpoints
- - http://13.60.56.154/get-player/$id (int) - Get Player Data
- - http://13.60.56.154/$name (string) - It is advisable to search for a last name, the result will be all players that match the name along with their IDs
- - http://13.60.56.154/regular-seasons/player/$id (int) - Search for all regular season stats for a given player
- - http://13.60.56.154/post-seasons/player/$id (int) - Search for all post season stats for a given player 
- - http://13.60.56.154/career-high/player/$id (int) - Search for career high
+ - https://www.nba.sportcentre.info/$id (int) - Get Player Data
+ - https://www.nba.sportcentre.info/$name (string) - It is advisable to search for a last name, the result will be all players that match the name along with their IDs
+ - https://www.nba.sportcentre.info/regular-seasons/player/$id (int) - Search for all regular season stats for a given player
+ - https://www.nba.sportcentre.info/$id (int) - Search for all post season stats for a given player 
+ - https://www.nba.sportcentre.info$id (int) - Search for career high
 
 
 ---
@@ -37,7 +37,7 @@ All information was last updated after the 2022-2023 season. New players from th
 
 ## Usage
 
-```http://13.60.56.154/search-player/bird```
+```https://www.nba.sportcentre.info/search-player/bird```
 
     [
         {
@@ -58,7 +58,7 @@ All information was last updated after the 2022-2023 season. New players from th
         }
     ]
 ---
-```http://13.60.56.154/get-player/3503```
+```https://www.nba.sportcentre.info/get-player/3503```
   
     {
         "assists": "6.3",
@@ -73,7 +73,7 @@ All information was last updated after the 2022-2023 season. New players from th
         "per": "23.5"
     }
 ---
-```http://13.60.56.154/regular-seasons/player/3503```
+```https://www.nba.sportcentre.info/regular-seasons/player/3503```
 
 ```
 [
@@ -112,7 +112,7 @@ All information was last updated after the 2022-2023 season. New players from th
 ]
 ```
 ---
-```http://13.60.56.154/post-seasons/player/3505```
+```https://www.nba.sportcentre.info/post-seasons/player/3505```
 
 ```
 [
@@ -151,7 +151,7 @@ All information was last updated after the 2022-2023 season. New players from th
 ]
 ```
 ---
-```http://13.60.56.154/career-high/player/3472```
+```https://www.nba.sportcentre.info/career-high/player/3472```
 
 ```
 [
